@@ -79,3 +79,5 @@ print(pr.score(X_train_poli, y_train_p))
 
 
 
+
+
